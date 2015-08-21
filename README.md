@@ -1,2 +1,2 @@
 # GetData_CourseProject
-Coursera Data Science Course Projects
+<h1>Coursera Data **Science** Course Projects<h1>
