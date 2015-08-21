@@ -1,10 +1,13 @@
+#Readme 
+
+
 # Getting and Cleaning Data Course Project
 
 The **Course Project** uses data from this URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 To reproduce the steps described below, and to use the *run_analysis.R* file, you need to download the above zip file, decompress the file, extract all the required files into thee top level folder and have the run_analysis.R file in the top level folder of the unzipped package.
 
-The codebook for this project is available within this repository: https://github.com/cvanhasselt/GettingDataCourseProject/blob/master/codebook.md
+The codebook for this project is available within this repository: https://github.com/skmgowda27/GetData_CourseProject/blob/master/Codebook.md
 
 ## Overall Process
 
