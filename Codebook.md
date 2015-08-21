@@ -41,7 +41,7 @@ The table below describes the variables used in dataset2.txt, the dataset produc
 | Name             | Description               |
 |:--------------------|:-------------|
 |**Subject**	   |A subject number, from 1 to 30|
-|**Activity**	   |One 0f the six activity labels| 
+|**Activity**	   |One of the six activity labels| 
 |**Mean and  Std** | For these type of column names, it is best to refer to the features_info.txt file from the original dataset. |
 
 In short, all the column names that contain std are standard deviation measures, and all that contain mean are mean measures. Time domain variables begin with t, time frequency domain variables begin with f. Variables containing acc refer to acceleration values.
